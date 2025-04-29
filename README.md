@@ -1,3 +1,4 @@
+https://landing-screen-liart.vercel.app/account-settings
 # PopX Landing Screen
 
 A pixel-perfect React implementation of a mobile app landing page with navigation functionality.
